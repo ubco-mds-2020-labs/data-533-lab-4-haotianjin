@@ -4,6 +4,8 @@
 
 [![Build Status](https://travis-ci.com/haotianjin/ubco-mds-data533-lab4-group.svg?token=2Spxnw3MTzR9CEHNUBzV&branch=main)](https://travis-ci.com/haotianjin/ubco-mds-data533-lab4-group)
 
+https://pypi.org/project/HospitalManagement/0.1/
+
 - Manage employees and patients in the hospital.
 
 - Sub-package 1: employee: manage nurses and doctors
